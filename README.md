@@ -1,2 +1,2 @@
-# Notebooks Machine Learning
-Notebooks Voltados para  Machine Learning utilizando Python para as análise exploratoria dos datasets. 
+# Python Data Science
+ Repositório  voltado para Data Science utilizando a linguagem python.
